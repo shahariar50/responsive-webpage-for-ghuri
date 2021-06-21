@@ -27,6 +27,36 @@ const Navbar = () => {
                   Home
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="#">
+                  Services
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="#">
+                  Projects
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="#">
+                  Solutions
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="#">
+                  Jobs
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="#">
+                  Blogs
+                </Link>
+              </li>
+              <li className="nav-item">
+                <Link className="nav-link" to="#">
+                  Contacts
+                </Link>
+              </li>
             </ul>
           </div>
         </div>

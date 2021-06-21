@@ -13,7 +13,7 @@ const Topbar = () => {
             </Link>
           </div>
           <div className="col d-inline-flex">
-            <form class="form-inline my-2 my-lg-0 ml-auto">
+            <form className="form-inline my-2 my-lg-0 ml-auto">
               <input
                 className="form-control mr-sm-2 "
                 type="search"

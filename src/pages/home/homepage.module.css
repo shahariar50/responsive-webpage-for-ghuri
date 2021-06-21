@@ -1,0 +1,13 @@
+.root :global(.hero) {
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  clip-path: ellipse(100% 100% at 50% 0%);
+}
+.root :global(.hero h2) {
+  color: #fff;
+  font-size: 60px;
+}
+.root :global(.hero p) {
+  color: #f8f8f8;
+}

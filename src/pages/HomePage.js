@@ -5,7 +5,7 @@ import classes from "./home/homepage.module.css";
 const HomePage = () => {
   return (
     <div className={classes.root}>
-      <section>
+      <section className="heroSection">
         <HomeBanner />
       </section>
     </div>
